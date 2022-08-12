@@ -1,2 +1,1 @@
-# Teste-Vue.js
-contact list
+# Lista de contatos desenvolvida com Vue.js
